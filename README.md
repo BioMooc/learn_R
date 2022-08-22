@@ -1,6 +1,6 @@
 # About this project
 
-> version: 0.0.0
+> version: 0.0.2
 
 R 包括三大部分：基础语法，统计，画图。
 

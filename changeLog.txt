@@ -1,8 +1,21 @@
 changes of learn R (again)
 
-0.1 blog sys
-#=> commit
+0.0.1 blog sys
+0.0.2 add CNAME
+##=> commit
 #######=====>push
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ```

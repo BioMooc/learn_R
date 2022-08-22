@@ -1,11 +1,12 @@
-# R 学习资源
+# R 语言语法
 
-- [R 官网](https://www.r-project.org/), [R blog](https://blog.r-project.org/), 
+- [R 官网](https://www.r-project.org/), 大而全
+- [R blog](https://blog.r-project.org/), 新闻
 
 
 
 
-## 入门
+## 入门教程
 
 [R Manuals](https://cran.r-project.org/manuals.html): 官方文档，定期更新。
 
@@ -16,7 +17,7 @@
 
 
 
-## 高级概念
+## 高级教程
 
 R 高级教程(可以不定期没事看几眼。初学者看不懂不要为难自己，需要的时候多看几遍就看懂了。)
 
@@ -57,6 +58,9 @@ R 高级教程(可以不定期没事看几眼。初学者看不懂不要为难�
 
 
 
+# R 绘图
+
+- [how-big-is-your-graph.pdf](https://www.rstudio.com/wp-content/uploads/2016/10/how-big-is-your-graph.pdf): R cheat sheet for graphics device
 
 
 
