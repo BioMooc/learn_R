@@ -2,6 +2,7 @@ changes of learn R (again)
 
 0.0.1 blog sys
 0.0.2 add CNAME
+0.0.3 add .nojekyll file
 ##=> commit
 #######=====>push
 
@@ -28,3 +29,6 @@ $ git add .
 $ git commit -m "0.1 blog sys"
 $ git push origin master
 ```
+
+
+add `.nojekyll` to build files begin with "_"
