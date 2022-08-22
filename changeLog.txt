@@ -1,0 +1,17 @@
+changes of learn R (again)
+
+0.1 blog sys
+#=> commit
+#######=====>push
+
+
+```
+$ cd /home/wangjl/data/project/learn_R/
+$ git init
+$ git remote add origin git@github.com:BioMooc/learn_R.git #not use now
+$ git remote set-url origin git@eve:BioMooc/learn_R.git #DawnEve
+
+$ git add .
+$ git commit -m "0.1 blog sys"
+$ git push origin master
+```
